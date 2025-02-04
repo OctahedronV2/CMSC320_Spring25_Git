@@ -6,3 +6,9 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: It could be applied to a lot of different fields, but the first one that comes to mind is Economics because we can use data science to analyze many different aspects of our economy, such as poverty rates, unemployment, etc.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Git merge will preserve the history of both separate branches, while rebasing will create one linear history. Rebasing can be problematic since it changes the commit history, but it does simplify the commit history.
+
+
+
