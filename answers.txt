@@ -10,5 +10,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Git merge will preserve the history of both separate branches, while rebasing will create one linear history. Rebasing can be problematic since it changes the commit history, but it does simplify the commit history.
 
+Q4: What are you looking forward to this semester?
 
+Answer: I'm looking forward to learning about utilizing databases and learning new technologies such as Pandas and SQL, since those are currently gaps in my knowledge.
 
